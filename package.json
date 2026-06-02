@@ -15,7 +15,7 @@
 		"strava"
 	],
 	"homepage": "https://johng.io/p/better-segments-for-strava",
-	"bugs": "https://github.com/twocaretcat/better-segments-for-strava/issues",
+	"bugs": "https://github.com/caret-collective/better-segments-for-strava/issues",
 	"license": "MIT",
 	"author": {
 		"name": "John Goodliff",
@@ -46,7 +46,7 @@
 	"type": "module",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/twocaretcat/better-segments-for-strava.git"
+		"url": "git+https://github.com/caret-collective/better-segments-for-strava.git"
 	},
 	"scripts": {
 		"dev": "vite",

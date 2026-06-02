@@ -16,7 +16,7 @@ export default defineConfig({
 			userscript: {
 				name: `${PROJECT.NAME} ${PROJECT.TAGLINE}`,
 				icon: iconBase64,
-				namespace: 'https://github.com/twocaretcat',
+				namespace: 'https://github.com/caret-collective',
 				match: ['https://www.strava.com/athlete/segments/starred*'],
 				grant: 'none',
 			},
